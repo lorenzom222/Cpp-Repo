@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "__config": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "format": "cpp"
+    },
+    "editor.formatOnSave": true
+}

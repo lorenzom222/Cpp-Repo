@@ -1,0 +1,4 @@
+/Users/lorenzomendoza/Documents/Self-Learning/C++/practice/make/hello/build/CMakeFiles/hello.dir
+/Users/lorenzomendoza/Documents/Self-Learning/C++/practice/make/hello/build/CMakeFiles/goodbye.dir
+/Users/lorenzomendoza/Documents/Self-Learning/C++/practice/make/hello/build/CMakeFiles/edit_cache.dir
+/Users/lorenzomendoza/Documents/Self-Learning/C++/practice/make/hello/build/CMakeFiles/rebuild_cache.dir
